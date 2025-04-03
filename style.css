@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+
+body {
+    background: black;
+}
+
+#poster {
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 25%;
+    font-family: "Combo", system-ui;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-bottom: 16px;
+}
+
+img {
+    width: 90%;
+    border: 8px dashed white;
+}
+
+#p1 {
+    margin-top: 0;
+}
